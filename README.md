@@ -11,7 +11,7 @@ The project is broken down into multiple steps:
   <img width="350" height="600" src="./assets/cancerdetect.jpg">
 </p>
 ### App demo
-[![Breast Cancer Classifier Demo]](.assets/demo.mp4)
+[Breast Cancer Classifier Demo](.assets/demo.mp4)
 
 ### Libraries
 * [Tensorflow 2.0](https://www.tensorflow.org/)
