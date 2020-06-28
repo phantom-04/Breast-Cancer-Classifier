@@ -5,10 +5,11 @@ The project is broken down into multiple steps:
 
 ### Screenshots
 <p align="center">
-  <img width="300" height="600" src="./assets/welcome.jpg">
+  <img width="350" height="600" src="./assets/welcome.jpg">
 </p>
-![Gameplay Screenshot2](./assets/cancerdetect.jpg)
-
+<p align="center">
+  <img width="350" height="600" src="./assets/cancerdetect.jpg">
+</p>
 ### App demo
 [Breast Cancer Classifier Demo](.assets/demo.mp4)
 
