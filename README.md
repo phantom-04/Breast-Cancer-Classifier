@@ -4,7 +4,9 @@ The project is broken down into multiple steps:
 * Deploying the model to an Android application using TFLite
 
 ### Screenshots
-![Gameplay Screenshot](./assets/welcome.jpg)
+<p align="center">
+  <img width="460" height="300" src="./assets/welcome.jpg">
+</p>
 ![Gameplay Screenshot2](./assets/cancerdetect.jpg)
 
 ### App demo
