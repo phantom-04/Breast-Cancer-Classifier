@@ -5,7 +5,7 @@ The project is broken down into multiple steps:
 
 ### Screenshots
 <p align="center">
-  <img width="460" height="300" src="./assets/welcome.jpg">
+  <img width="300" height="600" src="./assets/welcome.jpg">
 </p>
 ![Gameplay Screenshot2](./assets/cancerdetect.jpg)
 
